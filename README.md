@@ -1,4 +1,5 @@
 # E-commerce
+Um pouco no meu aprendizado no curso Spro!
 Api ou traduzida para o português interface de programação de aplicação – é um conjunto de rotinas e padrões muito utilizados para facilitam 
 a comunicação e troca de informações entre sites, aplicativos e plataforma baseado na Web, sem que o usuário precise acessá-los diretamente.
 Para as APIs Web, existe um padrão chamado REST em português Representacional de Estado. Outro termo para esse padrão é “API RESTful”.
